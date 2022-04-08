@@ -1,3 +1,3 @@
-# Template-Inicial-NextJS
+# Next-Auth-JWT
 
-Configuração inicial de projeto com NextJs, Typescript and Styled-Components
+Esse projeto tem como objetivo logar um usuario usando Autenticação e Autorizações dentro da aplicação
